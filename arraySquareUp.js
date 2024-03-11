@@ -1,3 +1,4 @@
+// https://www.codewars.com/kata/5a8bcd980025e99381000099/train/javascript
 // Given an integer n greater than or equal to 0, create and return an array with the following pattern:
 
 // squareUp(3) => [0, 0, 1, 0, 2, 1, 3, 2, 1]
